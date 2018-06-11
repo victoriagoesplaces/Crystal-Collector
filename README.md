@@ -26,4 +26,4 @@ The values of each crystal and target number will change every time the game res
 
 ### Screenshot
 
-![screenshot](assets/images/screenshot.jpg "Screenshot of game")
+<!-- ![screenshot](assets/images/screenshot.jpg "Screenshot of game") -->
