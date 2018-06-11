@@ -1,6 +1,4 @@
-
 var current = 0
-
 var targetNumber =  Math.floor(Math.random() * (120 - 19)) + 19;    
 $("#target").text(targetNumber);
 
@@ -12,7 +10,6 @@ var crystal4 =  Math.floor(Math.random() * 12) + 1;
 var winCounter = 0 
 var lossCounter = 0
 
-        
 $(".crystal").on("click", function() {
     current = current + crystal;
     $("#current").text(current);
@@ -70,4 +67,3 @@ else if (current > targetNumber){
     reset();
 }
 }
-

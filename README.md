@@ -2,9 +2,9 @@
 
 *_Crystal Collector Game_* !
 
-#### How to play?
-
 *  Use the following link to get started [Crystal Collector Game](https://victoriagoesplaces.github.io/unit-4-game/)
+
+## How to play?
 
 You will be given a random target number at the beginnig of the game.
 
@@ -20,7 +20,7 @@ on the other hand, if the current number goes over the target number, you will r
 
 You will be able to keep track of the number of games you have lost or won on the. 
 
-#### Remember-
+### Remember-
 
 The values of each crystal and target number will change every time the game restarts. 
 
