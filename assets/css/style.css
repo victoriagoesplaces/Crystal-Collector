@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('../images/background.jpg') !important;
+    background-size: 100%;
+}
+
+.jumbotron {
+    margin-top: 8%;
+    padding-top: 1%;
+    padding-bottom: 2%;
+    background-color: rgba(151, 58, 151, 0.253);
+    color: white;
+}
+
+.panel-body{
+    background:  rgba(151, 58, 151, 0.253) !important;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    
+}
+
+.panel {
+    background:  rgba(151, 58, 151, 0.001) !important;
+}
+
+.btn-info {
+    background: rgba(151, 58, 151, 0.253);
+    border-color: white;
+    color: white !important;
+}
+
+.btn-info:hover{
+    background: rgba(151, 58, 151, 0.253);
+    border-color:  rgba(151, 58, 151, 0.253);
+}
+
+.btn-info:focus{
+    background: rgba(151, 58, 151, 0.253)!important;
+    color: white !important;
+}
+
+.btn {
+    transition: none;
+    cursor: pointer;
+}
+
+.picture {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    opacity: 0.70;
+    margin-bottom: 10%;
+    cursor: pointer;
+}

@@ -51,13 +51,11 @@ function reset() {
     var crystal4 =  Math.floor(Math.random() * 12) + 1;
     
     $("#lossCounter").text(lossCounter);
-    $("#winCounter").text(winCounter);
-}
+    $("#winCounter").text(winCounter);}
 
 $("#resetButton").on("click", function() {
     reset();
 });
-
 
 function score() {
 if (current === targetNumber) {
@@ -74,3 +72,4 @@ else if (current > targetNumber){
     reset()
 }
 }
+
