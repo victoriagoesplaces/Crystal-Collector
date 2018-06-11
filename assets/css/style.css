@@ -29,13 +29,13 @@ body {
 
 .btn-info {
     background: rgba(151, 58, 151, 0.253);
-    border-color: white;
+    border-color: purple !important;
     color: white !important;
 }
 
 .btn-info:hover{
     background: rgba(151, 58, 151, 0.253);
-    border-color:  rgba(151, 58, 151, 0.253);
+    border-color:  purple !important;
 }
 
 .btn-info:focus{
