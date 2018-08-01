@@ -1,6 +1,4 @@
-# unit-4-game
-
-*_Crystal Collector Game_* !
+# Crystal-Collector
 
 *  Use the following link to get started [Crystal Collector Game](https://victoriagoesplaces.github.io/unit-4-game/)
 
